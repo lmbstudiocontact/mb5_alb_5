@@ -1,0 +1,139 @@
+[
+  {
+    "title": "Scenery",
+    "link_thumb": "https://live.staticflickr.com/65535/51693995721_0f1d731c19_o.gif",
+    "id_album": "-715666509",
+    "total": 2,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-715666509_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Smurf Houses Cartoon_L4",
+    "link_thumb": "https://live.staticflickr.com/65535/51702972087_5f85f8fd0f_o.gif",
+    "id_album": "228264853",
+    "total": 4,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_228264853_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Angry Birds_L5",
+    "link_thumb": "https://live.staticflickr.com/65535/51694824013_abdb9f0a8e_o.gif",
+    "id_album": "2112729293",
+    "total": 26,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_2112729293_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Cute Art_L2",
+    "link_thumb": "https://live.staticflickr.com/65535/51695008747_ab0d23c153_o.gif",
+    "id_album": "-629963489",
+    "total": 76,
+    "size_max_detail_page": 2,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-629963489_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-629963489_index_1.json"
+      }
+    ]
+  },
+  {
+    "title": "Onmyoji_L1",
+    "link_thumb": "https://live.staticflickr.com/65535/51701099832_c74e62344c_o.gif",
+    "id_album": "389318913",
+    "total": 26,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_389318913_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Music_L1",
+    "link_thumb": "https://live.staticflickr.com/65535/51701693715_207ae00a80_o.gif",
+    "id_album": "908522975",
+    "total": 24,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_908522975_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Cartoon",
+    "link_thumb": "https://live.staticflickr.com/65535/51693172247_2bb17a08ac_o.gif",
+    "id_album": "-2075887794",
+    "total": 119,
+    "size_max_detail_page": 3,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-2075887794_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-2075887794_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-2075887794_index_2.json"
+      }
+    ]
+  },
+  {
+    "title": "Butterfly_L1",
+    "link_thumb": "https://live.staticflickr.com/65535/51695281431_a1d793c454_o.gif",
+    "id_album": "657564369",
+    "total": 6,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_657564369_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "One Piece Anime_L1",
+    "link_thumb": "https://live.staticflickr.com/65535/51701151536_8150faa841_o.gif",
+    "id_album": "1351456604",
+    "total": 135,
+    "size_max_detail_page": 3,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1351456604_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1351456604_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1351456604_index_2.json"
+      }
+    ]
+  }
+]
