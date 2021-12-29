@@ -1,89 +1,54 @@
 [
   {
-    "title": "Raccoons_L1",
-    "link_thumb": "https://live.staticflickr.com/65535/51703256501_29e00c4fa2_o.gif",
-    "id_album": "1998705264",
-    "total": 20,
-    "size_max_detail_page": 1,
+    "title": "One Piece Anime_L2",
+    "link_thumb": "https://live.staticflickr.com/65535/51780513128_e176d2ed4e_o.gif",
+    "id_album": "1351456605",
+    "total": 135,
+    "size_max_detail_page": 3,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1998705264_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Cute Art_L1",
-    "link_thumb": "https://live.staticflickr.com/65535/51696454014_51764251af_o.gif",
-    "id_album": "-629963490",
-    "total": 76,
-    "size_max_detail_page": 2,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-629963490_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1351456605_index_0.json"
       },
       {
         "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-629963490_index_1.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1351456605_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1351456605_index_2.json"
       }
     ]
   },
   {
-    "title": "Miku",
-    "link_thumb": "https://live.staticflickr.com/65535/51694744964_261bffe88d_o.gif",
-    "id_album": "2398246",
-    "total": 5,
+    "title": "Moana Cartoon_L5",
+    "link_thumb": "https://live.staticflickr.com/65535/51781112595_a6805501d3_o.gif",
+    "id_album": "-2101867512",
+    "total": 13,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_2398246_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-2101867512_index_0.json"
       }
     ]
   },
   {
-    "title": "Panda_L7",
-    "link_thumb": "https://live.staticflickr.com/65535/51702335281_a0a1a3b94c_o.gif",
-    "id_album": "1123959312",
-    "total": 11,
+    "title": "Guns",
+    "link_thumb": "https://live.staticflickr.com/65535/51694645284_2fb993ba34_o.gif",
+    "id_album": "2231123",
+    "total": 10,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1123959312_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Donald Duck Cartoon_L5",
-    "link_thumb": "https://live.staticflickr.com/65535/51697076148_03557e0fb3_o.gif",
-    "id_album": "-1917621481",
-    "total": 4,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1917621481_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Shiv_L2",
-    "link_thumb": "https://live.staticflickr.com/65535/51703902593_5d006898a4_o.gif",
-    "id_album": "-568595357",
-    "total": 32,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-568595357_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_2231123_index_0.json"
       }
     ]
   },
   {
     "title": "Ratatouille Cartoon_L5",
-    "link_thumb": "https://live.staticflickr.com/65535/51704284305_e804b8ba85_o.gif",
+    "link_thumb": "https://live.staticflickr.com/65535/51780279281_b8ece8963e_n.jpg",
     "id_album": "1746345504",
     "total": 5,
     "size_max_detail_page": 1,
@@ -95,28 +60,67 @@
     ]
   },
   {
-    "title": "Angry Birds_L2",
-    "link_thumb": "https://live.staticflickr.com/65535/51695363655_9b1ec94d9a_o.gif",
-    "id_album": "2112729290",
-    "total": 26,
+    "title": "Donald Duck Cartoon_L2",
+    "link_thumb": "https://live.staticflickr.com/65535/51781081110_b4ef5874e7_o.gif",
+    "id_album": "-1917621484",
+    "total": 4,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_2112729290_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1917621484_index_0.json"
       }
     ]
   },
   {
-    "title": "Panda_L6",
-    "link_thumb": "https://live.staticflickr.com/65535/51702595213_5fc5cc1f9d_o.gif",
-    "id_album": "1123959311",
-    "total": 11,
+    "title": "Simpsons Cartoon_L4",
+    "link_thumb": "https://live.staticflickr.com/65535/51781204430_1dc1ec4081_n.jpg",
+    "id_album": "1276946591",
+    "total": 8,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1123959311_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1276946591_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Music_L1",
+    "link_thumb": "https://live.staticflickr.com/65535/51701693715_207ae00a80_o.gif",
+    "id_album": "908522975",
+    "total": 24,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_908522975_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Pig_L7",
+    "link_thumb": "https://live.staticflickr.com/65535/51703128984_50c144ce58_o.gif",
+    "id_album": "-1904503332",
+    "total": 38,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1904503332_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Buddhist Terms_L3",
+    "link_thumb": "https://live.staticflickr.com/65535/51781032915_06f54f5e37_o.gif",
+    "id_album": "518853930",
+    "total": 13,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_518853930_index_0.json"
       }
     ]
   }
